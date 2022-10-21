@@ -2,13 +2,13 @@
 ##  <font color="#8450B2">_Group: 3PM 👧🏻👩🏻👩🏼👦🏻_</font> <br>
 
 
-## _Key Highlight_
+## _Key Highlight✨✨_
 
 
-## 1. Introduction
+## 1. Introduction🍆
 
 
-## 2. Data
+## 2. Data🖼️
 
 ### Data source
 
@@ -23,17 +23,19 @@
 ### Data Transformation: 
 
 
-## 3. Network architecture
+## 3. Network architecture🌐
 
 
-## 4. Training
+
+## 4. Training🏋🏻‍♂️
+
 ### 4.1 Traditional Machine Learning (ML)
 
 
 ### 4.2 Multilayer Perceptron (MLP)
 
 
-## 5. Results
+## 5. Results📈
 
 ### 5.1 Traditional Machine Learning (ML)
 
@@ -43,13 +45,14 @@
 
   
 
-## 6.Discussion
+## 6.Discussion💭
 
 
-## 7. Conclusion
+## 7. Conclusion👑
 
 
-## 8. References
+
+## 8. References✍🏼
 
  
 ## _End Credit_
