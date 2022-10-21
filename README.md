@@ -18,10 +18,6 @@
 ### Data preparation
 
 
-### Data Cleaning: 
-
-### Data Transformation: 
-
 
 ## 3. Network architecture🌐
 
@@ -29,19 +25,10 @@
 
 ## 4. Training🏋🏻‍♂️
 
-### 4.1 Traditional Machine Learning (ML)
-
-
-### 4.2 Multilayer Perceptron (MLP)
 
 
 ## 5. Results📈
 
-### 5.1 Traditional Machine Learning (ML)
-
-
-
-### 5.2 Multilayer Perceptron (MLP)
 
   
 
